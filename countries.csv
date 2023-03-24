@@ -55,7 +55,7 @@ El Salvador,SV
 Equatorial Guinea,GQ
 Eritrea,ER
 Estonia,EE
-Eswatini,??
+Eswatini,SZ
 Ethiopia,ET
 Fiji,FJ
 Finland,FI
@@ -69,7 +69,7 @@ Greece,GR
 Grenada,GD
 Guatemala,GT
 Guinea,GN
-Guinea-Bissau,GW
+Guinea Bissau,GW
 Guyana,GY
 Haiti,HT
 Honduras,HN
@@ -88,11 +88,9 @@ Jordan,JO
 Kazakhstan,KZ
 Kenya,KE
 Kiribati,KI
-South Korea,KP
-North Korea,KR
 Kuwait,KW
 Kyrgyzstan,KG
-Lao,LA
+Laos,LA
 Latvia,LV
 Lebanon,LB
 Lesotho,LS
@@ -112,10 +110,10 @@ Mauritania,MR
 Mauritius,MU
 Mexico,MX
 Micronesia,FM
-Moldova,??
+Moldova,MD
 Monaco,MC
 Mongolia,MN
-Montenegro,??
+Montenegro,ME
 Morocco,MA
 Mozambique,MZ
 Myanmar,MM
@@ -127,7 +125,8 @@ New Zealand,NZ
 Nicaragua,NI
 Niger,NE
 Nigeria,NG
-North Macedonia,??
+North Korea,KP
+North Macedonia,MK
 Norway,NO
 Oman,OM
 Pakistan,PK
@@ -151,7 +150,7 @@ San Marino,SM
 Sao Tome and Principe,ST
 Saudi Arabia,SA
 Senegal,SN
-Serbia,CS
+Serbia,RS
 Seychelles,SC
 Sierra Leone,SL
 Singapore,SG
@@ -160,7 +159,8 @@ Slovenia,SI
 Solomon Islands,SB
 Somalia,SO
 South Africa,ZA
-South Sudan,??
+South Korea,KR
+South Sudan,SS
 Spain,ES
 Sri Lanka,LK
 Sudan,SD
@@ -168,7 +168,6 @@ Suriname,SR
 Sweden,SE
 Switzerland,CH
 Syria,SY
-Taiwan,TW
 Tajikistan,TJ
 Tanzania,TZ
 Thailand,TH
