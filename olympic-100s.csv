@@ -1,0 +1,54 @@
+Year,City,Gender,Time
+1896,Athens,Male,12
+1900,Paris,Male,11
+1904,St. Louis,Male,11
+1908,London,Male,10.8
+1912,Stockholm,Male,10.8
+1920,Antwerp,Male,10.8
+1924,Paris,Male,10.6
+1928,Amsterdam,Male,10.8
+1928,Amsterdam,Female,12.2
+1932,Los Angeles,Male,10.3
+1932,Los Angeles,Female,11.9
+1936,Berlin,Male,10.3
+1936,Berlin,Female,11.5
+1948,London,Male,10.3
+1948,London,Female,11.9
+1952,Helsinki,Male,10.4
+1952,Helsinki,Female,11.5
+1956,Melbourne,Male,10.5
+1956,Melbourne,Female,11.5
+1960,Rome,Male,10.2
+1960,Rome,Female,11
+1964,Tokyo,Male,10
+1964,Tokyo,Female,11.4
+1968,Mexico City,Male,9.95
+1968,Mexico City,Female,11.08
+1972,Munich,Male,10.14
+1972,Munich,Female,11.07
+1976,Montreal,Male,10.06
+1976,Montreal,Female,11.08
+1980,Moscow,Male,10.25
+1980,Moscow,Female,11.06
+1984,Los Angeles,Male,9.99
+1984,Los Angeles,Female,10.97
+1988,Seoul,Male,9.92
+1988,Seoul,Female,10.62
+1992,Barcelona,Male,9.96
+1992,Barcelona,Female,10.82
+1996,Atlanta,Male,9.84
+1996,Atlanta,Female,10.94
+2000,Sydney,Male,9.87
+2000,Sydney,Female,10.75
+2004,Athens,Male,9.85
+2004,Athens,Female,10.93
+2008,Beijing,Male,9.69
+2008,Beijing,Female,10.78
+2012,London,Male,9.63
+2012,London,Female,10.75
+2016,Rio,Male,9.81
+2016,Rio,Female,10.71
+2020,Tokyo,Male,9.8
+2020,Tokyo,Female,10.61
+2024,Paris,Male,9.79
+2024,Paris,Female,10.72
